@@ -1,0 +1,15 @@
+.contenedor{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+
+.botoncito{
+    background-color: #e67373;
+    padding: 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin-top: 25px;
+}
